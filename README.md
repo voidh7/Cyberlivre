@@ -283,7 +283,6 @@ Chegou o momento de integrar tudo: você usará hardware, sistemas, redes e prog
 |---------|-----------|------|
 | **TryHackMe** | Labs interativos e challenges | [tryhackme.com](https://tryhackme.com/) |
 | **Hack The Box** | Máquinas virtuais para pentest | [hackthebox.com](https://www.hackthebox.com/) |
-| **OverTheWire** | Wargames e desafios | [overthewire.org](https://overthewire.org/) |
 
 ---
 
