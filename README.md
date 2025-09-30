@@ -24,17 +24,6 @@ Recomenda-se a criação de atividades e desafios sobre os topicos estudados par
 
 **Bons estudos !!!**  
 
-## 🗺️ **Estrutura do Curso**
-
-| Nível | Foco | Duração Estimada | Status |
-|-------|------|------------------|--------|
-| [**0️⃣ Soft Skills**](#0️⃣-nível-0---soft-skills) | Comunicação, Liderança, Pensamento Crítico | 2-3 semanas | ✅ |
-| [**1️⃣ Hardware**](#1️⃣-nível-1---hardware) | Fundamentos de Hardware e Arquitetura | 2-3 semanas | ✅ |
-| [**2️⃣ Sistemas Operacionais**](#2️⃣-nível-2---sistemas-operacionais) | Windows, Linux, Virtualização | 4-6 semanas | ✅ |
-| [**3️⃣ Redes**](#3️⃣-nível-3---redes-de-computadores) | TCP/IP, Protocolos, Infraestrutura | 6-8 semanas | ✅ |
-| [**4️⃣ Programação**](#4️⃣-nível-4---programação) | Python, Automação, Scripting | 8-10 semanas | ✅ |
-| [**5️⃣ Segurança Cibernética**](#5️⃣-nível-5---segurança-cibernética) | Red/Blue Team, SOC, Pentest | 12+ semanas | ✅ |
-
 ---
 
 ## **0️⃣ Nível 0 - Soft Skills**
