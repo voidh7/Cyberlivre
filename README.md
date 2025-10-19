@@ -46,12 +46,19 @@ Competências técnicas são fundamentais, mas soft skills fazem a diferença na
 | 8 | [**Filosofia Aplicada**](https://youtube.com/playlist?list=PLN50oHosyDdg4P68_1pzRMqHpUnSfJGEF&si=JgmK4wbYFAS5ZxRT) | Clóvis de Barros Filho | Ética e reflexões práticas |
 
 ### 📰 Acompanhe as notícias do mundo da cibersegurança
-
-| nome | plataforma  | link |
-|:---------|:------:|--------:|
-| safesrc   | youtube   | [link do canal](https://youtube.com/@safesrc?si=iw4d377IyYawBR50) |
-|Coach de osasco | youtube | [link do canal](https://youtube.com/@coachdeosasco?si=TUI8GzZOZ3SM3C1Y) |
-
+| Nome                     | Plataforma | Link                                                                 |
+|--------------------------|------------|----------------------------------------------------------------------|
+| SafeSRC                  | YouTube    | [Canal](https://youtube.com/@safesrc?si=iw4d377IyYawBR50)            |
+| Coach de Osasco          | YouTube    | [Canal](https://youtube.com/@coachdeosasco?si=TUI8GzZOZ3SM3C1Y)      |
+| CISOCAST BRASIL          | YouTube    | [Canal](https://www.youtube.com/channel/UCueTsgS4ywno1p2BrVtJG5w)    |
+| Fortinet Brasil          | YouTube    | [Canal](https://www.youtube.com/c/fortinetbrasil)                    |
+| CECyber                  | YouTube    | [Canal](https://www.youtube.com/c/CECyber)                           |
+| Vigilant Cibersegurança  | YouTube    | [Canal](https://www.youtube.com/@vigilantciberseguranca)              |
+| Blockbit                 | YouTube    | [Canal](https://www.youtube.com/watch?v=K2xzJpytKAM)                 |
+| SUMMIT                   | YouTube    | [Canal](https://www.youtube.com/channel/UC9SvbjzLmTSPbguBBFRwR8A)     |
+| Daniel Donda             | YouTube    | [Canal](https://www.youtube.com/@danieldonda)                        |
+| Hackone                  | YouTube    | [Canal](https://www.youtube.com/@hackone)                            
+|
 ### 🎓 Cursos Estruturados
 
 | Nº | Curso | Plataforma | Descrição |
