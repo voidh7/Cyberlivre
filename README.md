@@ -45,6 +45,12 @@ Competências técnicas são fundamentais, mas soft skills fazem a diferença na
 | 7 | [**Performance e Foco**](https://youtube.com/playlist?list=PLwinAdFkfTrU2l2iQuvw6U-n2xTdDWUZZ&si=F3aBeV1A1paIN0Yl) | Projeto Cão Pastor | Disciplina e alta performance |
 | 8 | [**Filosofia Aplicada**](https://youtube.com/playlist?list=PLN50oHosyDdg4P68_1pzRMqHpUnSfJGEF&si=JgmK4wbYFAS5ZxRT) | Clóvis de Barros Filho | Ética e reflexões práticas |
 
+### 📰 Acompanhe as notícias do mundo da cibersegurança
+
+| nome | plataforma  | link |
+|:---------|:------:|--------:|
+| safesrc   | youtube   | [link do canal] (https://youtube.com/@safesrc?si=iw4d377IyYawBR50) |
+
 ### 🎓 Cursos Estruturados
 
 | Nº | Curso | Plataforma | Descrição |
