@@ -272,6 +272,10 @@ Chegou o momento de integrar tudo: você usará hardware, sistemas, redes e prog
 |---------|-----------|------|
 | **TryHackMe** | Labs interativos e challenges | [tryhackme.com](https://tryhackme.com/) |
 | **Hack The Box** | Máquinas virtuais para pentest | [hackthebox.com](https://www.hackthebox.com/) |
+|**bancocn** | laboratório completo para pentest | (http://www.bancocn.com/)
+|
+|
+
 
 ---
 
