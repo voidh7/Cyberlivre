@@ -49,7 +49,7 @@ Competências técnicas são fundamentais, mas soft skills fazem a diferença na
 
 | nome | plataforma  | link |
 |:---------|:------:|--------:|
-| safesrc   | youtube   | [link do canal] (https://youtube.com/@safesrc?si=iw4d377IyYawBR50) |
+| safesrc   | youtube   | [link do canal](https://youtube.com/@safesrc?si=iw4d377IyYawBR50) |
 
 ### 🎓 Cursos Estruturados
 
